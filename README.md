@@ -1,4 +1,4 @@
-
+![Sasindi Maneesha Banner](./Neon%20Twilight%20Tech%20Portfolio%20Banner.png)
 <div align="center">
 
 #  Hi, I'm Sasindi Maneesha!
